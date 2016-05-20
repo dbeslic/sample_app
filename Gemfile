@@ -51,5 +51,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 group :production do
   gem 'pg'
   gem 'rails_12factor', '0.0.2'
-  gem 'puma', '2.11.1'
+  gem 'puma'
 end
